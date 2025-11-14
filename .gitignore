@@ -1,1 +1,17 @@
-jsons
+# Pastas com dados gerados
+jsons/
+
+__pycache__/
+
+*.tbl
+
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.dsp
+*.vcproj
+*.sln
+*.dsw
+
+tpch-dbgen/
